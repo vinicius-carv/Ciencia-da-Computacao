@@ -1,0 +1,12 @@
+h1{
+    background-color: blueviolet;
+}
+p{
+    color: darkgreen;
+}
+a:hover{
+    color: red;
+}
+a:visited{
+    color:red;
+}
